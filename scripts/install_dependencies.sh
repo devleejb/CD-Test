@@ -1,2 +1,2 @@
 cd /home/ubuntu
-pm2 i -g
+npm i pm2 -g
