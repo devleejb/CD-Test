@@ -1,3 +1,3 @@
 cd /home/ubuntu
-npm install
-npm start
+sudo npm install
+sudo npm start
